@@ -223,14 +223,14 @@ Find [more examples and applications in our community catalog][unikraft-catalog]
 
 ## Cloud Deployment
 
-The creators of Unikraft have built [KraftCloud](https://kraft.cloud): a next generation cloud platform powered by technology intended to work in millisecond timescales.
+The creators of Unikraft have built [Unikraft Cloud](https://unikraft.com): a next generation cloud platform powered by technology intended to work in millisecond timescales.
 
 | ✅ | Millisecond Scale-to-Zero | ✅ | Millisecond Autoscale   | ✅ | Millisecond Cold Boots |
 |:-|:-|:-|:-|:-|:-|
 | ✅ | Higher Throughput         | ✅ | Much Lower Cloud Bill   | ✅ | HW-Level Isolation     |
-| ✅ | On-Prem or Cloud-Prem     | ✅ | Works with Docker & K8s | ✅ | Terraform Integration  |
+| ✅ | On-Prem or Cloud-Prem     | ✅ | Works with Docker & K8s | ✅ | K8s Integration  |
 
-### [Sign-up for the beta ↗](https://console.kraft.cloud/signup)
+### [Sign-up now ↗](https://console.unikraft.cloud/auth/signin)
 
 <br />
 
