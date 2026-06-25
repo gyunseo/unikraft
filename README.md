@@ -270,7 +270,7 @@ For more information, please refer to [`COPYING.md`][unikraft-license].
 ## Affiliation
 
 Unikraft is a member of the [Linux Foundation](https://www.linuxfoundation.org/) and is a [Xen Project](https://xenproject.org/)  Incubator Project.
-The Unikraft name, logo and its mascot are trademark of [Unikraft GmbH](https://unikraft.io).
+The Unikraft name, logo and its mascot are trademark of [Unikraft GmbH](https://unikraft.com).
 
 <br />
 
